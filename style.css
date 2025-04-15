@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+.banner {
+    background-color: #8B4000;
+    color: black;
+    padding: 30px;
+    text-align: center;
+}
+  
+.navbar {
+    background-color: #D2A85B;
+    text-align: center;
+    padding: 15px 0;
+}
+  
+.navbar a {
+    color: green;
+    text-decoration: none;
+    margin: 0 20px;
+    font-weight: bold;
+}
+  
+.content {
+    background-color: #D2A85B;
+    padding: 20px 40px;
+}
+  
+.content h2 {
+    color: black;
+}
+  
+.content p {
+    color: #5B1C00;
+    line-height: 1.6;
+}
